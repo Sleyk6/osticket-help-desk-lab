@@ -96,3 +96,10 @@ MySQL was installed and configured as the database server for osTicket.
 Using HeidiSQL, I verified the osTicket database and its tables.
 
 The database stored the help desk configuration, users, tickets, ticket history, and other application data.
+## Troubleshooting and Lessons Learned
+
+## Ticket Lifecycle Demonstration
+
+## Skills Demonstrated
+
+## Project Conclusion
